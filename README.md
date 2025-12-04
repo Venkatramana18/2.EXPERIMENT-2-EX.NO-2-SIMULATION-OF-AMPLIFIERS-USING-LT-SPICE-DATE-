@@ -24,6 +24,7 @@ DATE:
 
 <img width="1280" height="820" alt="image" src="https://github.com/user-attachments/assets/6c84b614-52e4-4620-982c-99d422c7a541" />
 
+![WhatsApp Image 2025-12-04 at 11 03 55 AM](https://github.com/user-attachments/assets/06769a94-e155-451d-b27e-a8fd219763eb)
 
 ---
 
@@ -38,6 +39,8 @@ DATE:
 2.## CIRCUIT DIAGRAM -NON INVERTING AMPLIFIER
 
 ![WhatsApp Image 2025-11-29 at 10 39 47_6781556d](https://github.com/user-attachments/assets/60d5b43c-f6fa-4a2f-a5e1-efc7b98eb91a)
+![WhatsApp Image 2025-12-04 at 11 03 56 AM](https://github.com/user-attachments/assets/497c772d-ac99-43a4-a9a5-efada9bc928e)
+
 
 ## OUTPUT WAVEFORM AND DISCUSSION 
 
@@ -47,6 +50,7 @@ DATE:
 3.## CIRCUIT DIAGRAM - DIFFERENTIAL AMPLIFIER 
 
 <img width="1280" height="348" alt="image" src="https://github.com/user-attachments/assets/797c9912-7fa6-4542-80d2-5ee5bdaca357" />
+![WhatsApp Image 2025-12-04 at 11 03 56 AM (1)](https://github.com/user-attachments/assets/6304f59c-1ee3-41ca-b788-a5680e21dd36)
 
 
 
@@ -58,6 +62,7 @@ DATE:
 
 <img width="754" height="379" alt="Screenshot 2025-11-30 221154" src="https://github.com/user-attachments/assets/82813dde-c977-4e94-9e78-a4c0bf7fb509" />
 
+![WhatsApp Image 2025-12-04 at 11 03 56 AM (2)](https://github.com/user-attachments/assets/3476e3f4-0214-4853-8c83-8cdb6d4a15cd)
 
 
 
