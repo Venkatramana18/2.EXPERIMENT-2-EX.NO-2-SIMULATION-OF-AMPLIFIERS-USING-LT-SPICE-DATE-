@@ -50,7 +50,8 @@ DATE:
 3.## CIRCUIT DIAGRAM - DIFFERENTIAL AMPLIFIER 
 
 <img width="1280" height="348" alt="image" src="https://github.com/user-attachments/assets/797c9912-7fa6-4542-80d2-5ee5bdaca357" />
-![WhatsApp Image 2025-12-04 at 11 03 56 AM (1)](https://github.com/user-attachments/assets/6304f59c-1ee3-41ca-b788-a5680e21dd36)
+![WhatsApp Image 2025-12-04 at 11 03 56 AM (1)](https://github.com/user-attachments/assets/51f50f6d-8ef0-4be8-99e0-70e9677b4efb)
+
 
 
 
